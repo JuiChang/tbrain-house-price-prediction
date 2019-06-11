@@ -1,7 +1,3 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
-
+.ipynb_checkpoints
 .git
 .DS_Store
